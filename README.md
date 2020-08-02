@@ -31,7 +31,7 @@ Python小例子 https://github.com/jackzhenguo/python-small-examples
 
 ## 贡献
 
-欢迎贡献小例子，修改已有 bug，参考  [贡献方法](./contributing.md) 
+欢迎贡献小例子到此库
 
 ## License
 
